@@ -25,3 +25,5 @@ Build a Bot to do basic mathematical operations
 
 
 ![t1](https://user-images.githubusercontent.com/83076256/221873186-cc1281bc-b874-4564-b909-9c489954f3d9.JPG)
+![t2](https://user-images.githubusercontent.com/83076256/221874624-a0e30dee-5d23-4ad8-89da-ece6dccba055.JPG)
+
