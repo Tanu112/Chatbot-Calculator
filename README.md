@@ -9,12 +9,15 @@ Build a Bot to do basic mathematical operations
 
   •You can use a simple menu based approach to take the operation
   •Example categories : “addition”, subtraction”, ”multiplication”, “division”
+  
 3.Based on these input show the output for the users
+
 4.After the flow ends - If a user says ”more operations” , take the new inputs and proceed
 
 # Concepts used 
 
 1.HTML,CSS - For design
+
 2.Javascript - For mathematical calculations
 
 # OUTPUT
