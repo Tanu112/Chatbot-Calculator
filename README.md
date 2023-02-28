@@ -24,7 +24,4 @@ Build a Bot to do basic mathematical operations
 # OUTPUT
 
 
-![task -1](https://user-images.githubusercontent.com/83076256/221864235-6ca1b360-6b1b-4327-8f19-c8a0f5e0afd8.JPG)
-![task-2](https://user-images.githubusercontent.com/83076256/221864321-be3080d7-e30f-4007-93ee-9e92783bc9c5.JPG)
-![task-3](https://user-images.githubusercontent.com/83076256/221864346-bb859ff7-cb60-47c7-81c4-b57a90b6a35f.JPG)
-![task-4](https://user-images.githubusercontent.com/83076256/221864356-abc8e027-cf81-45e8-a5ca-de05bcc47285.JPG)
+![t1](https://user-images.githubusercontent.com/83076256/221873186-cc1281bc-b874-4564-b909-9c489954f3d9.JPG)
